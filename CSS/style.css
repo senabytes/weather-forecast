@@ -13,6 +13,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
+    min-width: 100vw;
     background: linear-gradient(#3b82f6, #4a7dff);
 }
 
@@ -20,6 +21,7 @@ body{
     background-color: #f0f8ff;
     border-radius: 20px;
     padding: 18px;
+    margin: 10px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
 }
 
