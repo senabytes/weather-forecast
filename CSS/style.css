@@ -32,6 +32,7 @@ body{
     border: 1px solid #bdbdbd;
     border-radius: 10px;
     padding: 4px 12px;
+    color: #000;
 }
 
 #search input{

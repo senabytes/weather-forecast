@@ -3,6 +3,9 @@ document.querySelector('#search').addEventListener('submit', async (event) => {
 
     const cityName = document.querySelector('#city_name').value;
 
+    // Remove os espaços em branco antes e depois do nome da cidade
+    cityName = cityName.trim();
+
     if (!cityName) {
         return showAlert("Você precisa digitar o nome de uma cidade.");
     }
@@ -33,6 +36,7 @@ document.querySelector('#search').addEventListener('submit', async (event) => {
 
 function showInfo(json){
     console.log(json.main);
+    
     showAlert('');
         document.querySelector("#weather").classList.add('show')
     
