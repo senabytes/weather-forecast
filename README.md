@@ -26,4 +26,4 @@
 ![image](https://github.com/user-attachments/assets/6b5bfb08-6d34-4ff8-b062-aae6bf44c2db) 
 ![image](https://github.com/user-attachments/assets/eb945c49-a4a5-4a37-8b0e-1263a596103b)
 
-## 📎 Live: https://senabytes.github.io/weather-forecast/
+## 🔗 Live: https://senabytes.github.io/weather-forecast/
