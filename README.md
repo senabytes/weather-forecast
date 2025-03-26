@@ -4,7 +4,7 @@
 
 ## Funcionalidades
 
-- Busca a previsão do tempo para uma cidade informada pelo usuário.
+- Busca a previsão do tempo para qualquer cidade pesquisada.
 - Exibe temperatura atual, máxima e mínima, descrição do clima, umidade e velocidade do vento.
 - Interface responsiva e amigável.
 
